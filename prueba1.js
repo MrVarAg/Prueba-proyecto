@@ -9,4 +9,4 @@ document.write(" " + option);
 
 document.write(" " + Prueba + " " + option);
 
-edad = prompt("Ingresa Tu nombre1");
+name = prompt("Ingresa Tu nombre1");
